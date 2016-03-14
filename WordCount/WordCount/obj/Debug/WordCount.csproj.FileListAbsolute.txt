@@ -1,0 +1,11 @@
+D:\Hari\Practice\WInApps\WordCount\WordCount\bin\Debug\WordCount.exe.config
+D:\Hari\Practice\WInApps\WordCount\WordCount\bin\Debug\WordCount.exe
+D:\Hari\Practice\WInApps\WordCount\WordCount\bin\Debug\WordCount.pdb
+D:\Hari\Practice\WInApps\WordCount\WordCount\obj\Debug\WordCount.Form1.resources
+D:\Hari\Practice\WInApps\WordCount\WordCount\obj\Debug\WordCount.Properties.Resources.resources
+D:\Hari\Practice\WInApps\WordCount\WordCount\obj\Debug\WordCount.csproj.GenerateResource.Cache
+D:\Hari\Practice\WInApps\WordCount\WordCount\obj\Debug\WordCount.exe
+D:\Hari\Practice\WInApps\WordCount\WordCount\obj\Debug\WordCount.pdb
+D:\Hari\Practice\WInApps\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+D:\Hari\Practice\WInApps\WordCount\WordCount\bin\Debug\BusinessLogic.dll
+D:\Hari\Practice\WInApps\WordCount\WordCount\bin\Debug\BusinessLogic.pdb

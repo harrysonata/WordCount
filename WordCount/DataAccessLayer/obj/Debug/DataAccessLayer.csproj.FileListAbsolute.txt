@@ -1,0 +1,5 @@
+D:\Hari\Practice\WInApps\WordCount\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Hari\Practice\WInApps\WordCount\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Hari\Practice\WInApps\WordCount\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Hari\Practice\WInApps\WordCount\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Hari\Practice\WInApps\WordCount\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

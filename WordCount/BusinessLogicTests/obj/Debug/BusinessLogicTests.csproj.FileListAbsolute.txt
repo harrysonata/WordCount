@@ -1,0 +1,8 @@
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\bin\Debug\BusinessLogicTests.dll
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\bin\Debug\BusinessLogicTests.pdb
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\bin\Debug\BusinessLogic.dll
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\bin\Debug\BusinessLogic.pdb
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\obj\Debug\BusinessLogicTests.csprojResolveAssemblyReference.cache
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\obj\Debug\BusinessLogicTests.dll
+D:\Hari\Practice\WInApps\WordCount\BusinessLogicTests\obj\Debug\BusinessLogicTests.pdb
